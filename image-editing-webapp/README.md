@@ -1,7 +1,6 @@
 Task Id :- Image Editing App
 ============================
-Mentor :- @vansjyo
+Collaborator :- @vansjyo
 ------------------
-The task is hosted [here](https://image-editing-webapp.glitch.me)  
-The code can viewed [here](https://glitch.com/edit/#!/image-editing-webapp)  
+The task is hosted [here](https://image-editing-webapp.glitch.me)   
 Github repo [link](https://github.com/AdarshNaidu/image-editing-webapp.git)
