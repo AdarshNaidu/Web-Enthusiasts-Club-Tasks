@@ -1,7 +1,6 @@
 Task Id :- Google/Facebook/Github_Auth
 ======================================
-Mentor:- @mananpoddar
+Collaborator :- @mananpoddar
 ----------------------
-The task is hosted [here](https://oauth-google-facebook-github.glitch.me)  
-The code can be viewed [here](https://glitch.com/edit/#!/oauth-google-facebook-github)  
+The task is hosted [here](https://oauth-google-facebook-github.glitch.me)   
 Github repo [link](https://github.com/AdarshNaidu/oauth-google-facebook-github.git)
